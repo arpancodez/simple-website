@@ -21,7 +21,7 @@ const Profile = () => {
       <div className="projects">
         <div className="project">
           <h3>exrod/gym-webapp</h3>
-          <p>A Full Stack Gym Web Application in Go Lang</p>
+          <p>A Full Stack Gym Web App in Go Lang</p>
           <div className="stats">
             <span className="language">Go</span>
             <span className="star">★ 11</span>
